@@ -2,7 +2,9 @@
 // Best ways to install libraries from terminal:
 // npm install gsap @gsap/react three @react-three/fiber @react-three/drei @react-three/postprocessing
 
-import Hero from "./components/Sections/Hero"
+import Hero from "./Sections/Hero"
+
+
 
 function App() {
   
